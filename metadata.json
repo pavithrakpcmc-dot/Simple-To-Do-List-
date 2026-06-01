@@ -1,0 +1,6 @@
+{
+  "name": "Simple To-Do List",
+  "description": "A minimal, highly polished web app where users can manage daily tasks and user accounts efficiently with local session storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
